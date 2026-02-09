@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hi there, I'm Jasteena Poudel
 
-<!--
-**JasteenaPoudel/JasteenaPoudel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I am a CSIT student at Butwan Multiple Campus, passionate about learning and building cool things with code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🎓 CSIT student  
+- 📍 Butwan, Nepal  
+- 🔭 I’m currently learning Web Development (HTML, CSS, JavaScript)  
+- 🌟 I enjoy building small practice projects and improving my coding skills  
+- 📫 Feel free to connect with me!
+
+---
+
+## 📂 My Repositories
+
+Here are some of the things I’ve worked on:
+
+### 🔹 HTML Practice
+🧾 Practice set of HTML projects
+
+### 🔹 CSS-Codes
+🎨 Collection of CSS code examples
+
+### 🔹 Short-Project
+📌 Simple practice project
+
+### 🔹 JsshortProject
+🚀 Small JavaScript practice project
+
+---
+
+## 📫 Connect with Me
+
+[![Follow me on GitHub](https://img.shields.io/github/followers/JasteenaPoudel?label=Follow&style=social)](https://github.com/JasteenaPoudel)  
+
+---
+
+⭐ **Thanks for visiting my profile!**  
