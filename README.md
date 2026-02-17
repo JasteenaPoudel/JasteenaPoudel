@@ -7,7 +7,7 @@
 ## 💻 About Me
 
 - 🎓 CSIT student  
-- 📍 Butwan, Nepal  
+- 📍 Butwal, Nepal  
 - 🔭 I’m currently learning Web Development (HTML, CSS, JavaScript)  
 - 🌟 I enjoy building small practice projects and improving my coding skills  
 - 📫 Feel free to connect with me!
