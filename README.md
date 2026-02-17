@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Jasteena Poudel
 
-🌱 I am a CSIT student at Butwan Multiple Campus, passionate about learning and building cool things with code.
+🌱 I am a CSIT student at Butwal Multiple Campus, passionate about learning and building cool things with code.
 
 ---
 
